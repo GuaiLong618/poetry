@@ -8,9 +8,7 @@
 
 # 雪满梁园
 
-<img src="https://github.com/Koenma413/poetry/blob/master/1577979763.jpg" width="100%">
-
-![](https://ftp.bmp.ovh/imgs/2020/01/338720d035fb56ec.jpg)
+<img src="https://ftp.bmp.ovh/imgs/2020/01/338720d035fb56ec.jpg" width="100%">
 
 > 代云陇雁浙江潮，人有迷魂犹待招。世间多少金谷客，数声鹤唳念遥遥。
 
